@@ -1,0 +1,101 @@
+Customer Name,Drink,Branch,Payment Type,Card Number,Date/Time
+Aimee,"Tea, 3, £2.86",N/A,,213131674967092,09/12/2024
+Natalie,"Flat White, 4, £4.71",,Card,####,04/11/2024
+Whitney,"Mocha, ####, £4.16",Kingston,Mobile,UNKNOWN,11/03/2025
+Jeremy,"Hot Chocolate, 5, £3.86",Wimbledon,Card,####,30/03/2025
+James,"Flat White, 3, £3.66",####,N/A,####,29/10/2024
+Kristy,"Espresso, 1, £4.13",N/A,UNKNOWN,,28/03/2025
+Jacob,"Tea, 4, £1.89",####,####,,20/02/2025
+Steven,"Cappuccino, 1, £4.6",N/A,Mobile,343192620501461,18/04/2025
+Tara,"Tea, 3, £2.11",Kingston,N/A,340925911054028,29/10/2024
+Zachary,"Mocha, 1, £3.34",Croydon,UNKNOWN,4624294651811899606,16/11/2024
+Francisco,"Espresso, None, £2.95",Epsom,UNKNOWN,,11/12/2024
+Denise,Mocha 5 £4.88,Wimbledon,Cash,####,13/06/2025
+Tiffany,"Cappuccino, UNKNOWN, £3.17",,####,2292958712978834,18/03/2025
+Juan,"Tea, 3, £1.94",,,,01/11/2024
+Kayla,"Tea, 4, £3.39",####,UNKNOWN,4105585601977,16/08/2024
+Bryce,"Latte, 3, £2.65",,Card,UNKNOWN,06/01/2025
+Deanna,"Mocha, 4, £1.55",Kingston,UNKNOWN,N/A,21/04/2025
+James,"Latte, 1, £4.84",N/A,,6597936715828613,14/02/2025
+Courtney,"Tea, 1, £4.15",N/A,,####,26/08/2024
+Brittney,"Mocha, 2, £1.62",,UNKNOWN,N/A,31/07/2024
+Rebecca,"Flat White, , £3.89",Kingston,Mobile,UNKNOWN,25/11/2024
+Amy,"Hot Chocolate, UNKNOWN, £4.34",####,N/A,4284002083769441809,14/03/2025
+Matthew,"Hot Chocolate, ####, £4.88",Kingston,N/A,3598079919146882,27/01/2025
+Eric,"Tea, None, £2.68",N/A,UNKNOWN,4456895026833412,17/06/2025
+Vincent,"Espresso, 3, £2.49",Epsom,N/A,####,11/12/2024
+Micheal,"Hot Chocolate, 2, £3.74",,Card,,02/05/2025
+Andrew,"Tea, 1, £2.4",####,N/A,3575920251237291,02/03/2025
+Terri,"Latte, N/A, £4.76",####,Mobile,502001104517,24/09/2024
+Annette,"Latte, 3, £2.29",,Mobile,N/A,24/09/2024
+Dennis,Tea 4 £1.6,####,Card,3550463603555168,22/11/2024
+Charles,"Cappuccino, 4, £4.31",Kingston,UNKNOWN,3530493366933505,07/11/2024
+Debbie,"Cappuccino, 5, £4.77",,,374016080952785,21/04/2025
+Deanna,Espresso 2 £2.07,Epsom,####,N/A,04/05/2025
+Joshua,Cappuccino 1 £4.05,Epsom,,UNKNOWN,23/08/2024
+Mark,"Cappuccino, 4, £2.09",Croydon,Card,N/A,25/08/2024
+Adam,"Hot Chocolate, 4, £4.9",####,Cash,2251181219488442,07/12/2024
+John,"Hot Chocolate, 1, £1.58",,,####,03/12/2024
+Jason,"Hot Chocolate, 3, £4.2",,UNKNOWN,,13/05/2025
+Adam,"Espresso, 2, £2.93",Epsom,Mobile,4463599725401,12/10/2024
+Michael,"Espresso, 3, £3.35",Wimbledon,Card,5298457919414906,01/11/2024
+Nathan,"Tea, 4, £3.97",####,####,3587993595938011,10/01/2025
+William,"Hot Chocolate, 1, £2.02",Guildford,####,UNKNOWN,25/05/2025
+Natasha,"Mocha, ####, £1.87",N/A,,4768332360372589791,17/12/2024
+Kimberly,"Latte, 3, £4.6",,N/A,4498571423666,24/04/2025
+Mary,"Flat White, 5, £1.95",Guildford,Mobile,####,01/03/2025
+Travis,"Mocha, 1, £2.07",Epsom,,,24/11/2024
+Larry,"Flat White, ####, £4.73",Croydon,N/A,376924001781738,07/01/2025
+Jessica,"Latte, 2, £4.11",,Mobile,,02/05/2025
+Diana,"Mocha, 4, £2.46",####,Card,,18/11/2024
+Rebecca,"Cappuccino, 3, £4.69",####,N/A,180079963079245,12/08/2024
+Joshua,"Latte, 4, £3.56",####,####,N/A,01/06/2025
+Beth,"Mocha, 3, £3.16",,Cash,6580375577142541,17/01/2025
+Tracy,"Hot Chocolate, 4, £2.76",,Card,2267668378213464,10/02/2025
+Kelli,"Flat White, 1, £3.7",Croydon,UNKNOWN,4519623409587064259,19/02/2025
+Michelle,"Espresso, 4, £2.88",N/A,,676386443912,02/01/2025
+Mark,Tea 5 £2.54,Epsom,,####,20/03/2025
+Bill,"Mocha, 3, £3.16",,,3503342756903797,29/12/2024
+Christopher,"Hot Chocolate, 3, £3.4",N/A,Mobile,N/A,20/12/2024
+Jeffrey,"Tea, 5, £3.52",UNKNOWN,,30070520668622,12/03/2025
+Cynthia,"Latte, 3, £1.85",N/A,Card,UNKNOWN,19/06/2024
+Louis,"Latte, 1, £2.07",N/A,,30484336351184,02/12/2024
+Michael,"Hot Chocolate, 5, £2.19",Croydon,UNKNOWN,,03/02/2025
+Hannah,Latte 2 £1.76,Kingston,,378812287260451,18/01/2025
+Marie,"Espresso, 4, £2.35",,Card,,12/09/2024
+John,"Cappuccino, 2, £3.99",,Mobile,3564445118548733,06/05/2025
+Michael,"Latte, 2, £4.45",####,####,,13/09/2024
+Sheryl,"Cappuccino, 3, £4.9",Wimbledon,UNKNOWN,####,13/11/2024
+Joshua,"Flat White, 1, £4.11",Wimbledon,Cash,3517161744528472,03/04/2025
+Kimberly,"Hot Chocolate, 4, £4.54",Epsom,UNKNOWN,,25/10/2024
+Kathleen,"Cappuccino, 1, £3.72",Guildford,Cash,4581444142694634949,08/10/2024
+Barbara,"Hot Chocolate, N/A, £2.72",N/A,Mobile,4984866830353120,29/07/2024
+Willie,"Latte, 4, £3.69",Epsom,UNKNOWN,30583600849219,15/07/2024
+Curtis,"Cappuccino, 4, £1.77",Guildford,,UNKNOWN,27/10/2024
+Kelly,"Latte, 3, £2.28",,Cash,UNKNOWN,07/09/2024
+Maxwell,"Cappuccino, 3, £4.36",,,####,26/04/2025
+Jonathan,"Latte, 4, £3.16",Wimbledon,Mobile,4188253499679893,28/05/2025
+Daniel,"Hot Chocolate, 3, £3.36",Epsom,,4405035733412217442,14/07/2024
+Alicia,"Flat White, 2, £4.95",Wimbledon,UNKNOWN,6011555489885977,12/09/2024
+Amber,"Espresso, 4, £3.08",UNKNOWN,N/A,639005358945,15/09/2024
+Sarah,"Espresso, 2, £3.12",N/A,Card,4202264414457,21/09/2024
+Monica,"Mocha, 3, £2.73",,Card,,20/07/2024
+Jessica,"Cappuccino, 1, £4.22",Guildford,,N/A,11/10/2024
+Justin,"Cappuccino, 3, £2.36",UNKNOWN,N/A,5533410241112040,17/01/2025
+Joanne,Cappuccino #### £4.12,####,Cash,,11/10/2024
+Gary,Mocha 4 £3.37,Wimbledon,####,4482515580294,08/10/2024
+Philip,"Mocha, 5, £4.21",Croydon,N/A,30410049728095,04/02/2025
+Patrick,"Cappuccino, 3, £4.53",N/A,Cash,5277744744510585,18/02/2025
+Kristy,"Hot Chocolate, , £2.1",Epsom,####,,15/08/2024
+Alex,"Espresso, 4, £4.12",Epsom,N/A,UNKNOWN,11/03/2025
+Willie,Cappuccino 5 £3.72,N/A,,,19/03/2025
+Angela,"Latte, 4, £3.58",Epsom,Mobile,6551247393895849,12/10/2024
+Laura,"Tea, 4, £2.88",Guildford,,N/A,29/08/2024
+Tracy,"Latte, 2, £4.76",UNKNOWN,,213186744534256,04/10/2024
+Karen,"Espresso, 5, £2.74",Wimbledon,Cash,4151055318249896,06/08/2024
+Kayla,"Flat White, , £2.59",UNKNOWN,####,4975515016263600,14/07/2024
+Brooke,"Hot Chocolate, 4, £2.98",Guildford,####,3593417571031973,15/06/2025
+Katherine,"Hot Chocolate, 4, £3.43",,,,16/12/2024
+Ryan,"Cappuccino, 3, £3.43",Wimbledon,,3555945893111160,18/02/2025
+Natasha,"Hot Chocolate, 5, £4.37",N/A,N/A,3504986138135855,08/04/2025
+Shelby,"Mocha, 1, £2.31",Guildford,Mobile,4263032851285103,25/09/2024
